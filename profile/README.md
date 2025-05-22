@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://invasionz,net">
-    <img src="images/logo.png" alt="Logo" width="260" height="130">
+    <img src="logo.png" alt="Logo" width="260" height="130">
   </a>
 
   <h3 align="center">InvasionZ Minecraft</h3>
@@ -49,7 +49,7 @@
 
 ## About The Project
 
-<img src="images/wallpaper.png" alt="InvasionZ Banner" width="900" height="500" style="display: block; margin: 0 auto;">
+<img src="wallpaper.png" alt="InvasionZ Banner" width="900" height="500" style="display: block; margin: 0 auto;">
 <br>
 <br>
 InvasionZ is a custom Minecraft multiplayer server built on Spigot, set in a post-apocalyptic zombie world. This project focuses on immersive gameplay, survival challenges, and fully customized plugin systems designed specifically for the server.
