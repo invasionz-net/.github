@@ -33,7 +33,7 @@
   <p align="center">
     Welcome on the InvasionZ Organisation
     <br />
-    <a href="https://invasionz,net"><strong>Our Website »</strong></a>
+    <a href="https://invasionz.net"><strong>Our Website »</strong></a>
     <br />
     <br />
     <a href="https://discord.invasionz.net">Discord</a>
