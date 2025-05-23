@@ -72,21 +72,46 @@ Join the world of InvasionZ — if you dare to survive...
 
 ### Built With
 
-* ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-* ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-* ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-* ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-* ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-* ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-* ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-181E2C?style=for-the-badge&logo=pterodactyl&logoColor=white)
-* ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-* ![Spigot](https://img.shields.io/badge/Spigot-FF9900?style=for-the-badge&logo=minecraft&logoColor=white)
-* ![Paper](https://img.shields.io/badge/Paper-0A0A0A?style=for-the-badge&logo=paper&logoColor=white)
-* ![Velocity](https://img.shields.io/badge/Velocity-FF3C00?style=for-the-badge&logo=apache&logoColor=white)
-* ![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
-* ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-* ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 🧠 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+---
+
+### 🌐 Web Technologies & Configuration
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
+
+---
+
+### 🛢️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🐳 Containers & Operating Systems
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+---
+
+### 🧩 Minecraft Development & Hosting
+![Spigot](https://img.shields.io/badge/Spigot-FF9900?style=for-the-badge&logo=minecraft&logoColor=white)
+![Paper](https://img.shields.io/badge/Paper-0A0A0A?style=for-the-badge&logo=paper&logoColor=white)
+![Velocity](https://img.shields.io/badge/Velocity-FF3C00?style=for-the-badge&logo=apache&logoColor=white)
+![Pterodactyl](https://img.shields.io/badge/Pterodactyl-181E2C?style=for-the-badge&logo=pterodactyl&logoColor=white)
+
+---
+
+### 🔧 Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 
