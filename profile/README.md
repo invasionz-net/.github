@@ -52,7 +52,7 @@
 <img src="wallpaper.png" alt="InvasionZ Banner" width="900" height="500" style="display: block; margin: 0 auto;">
 <br>
 <br>
-InvasionZ is a custom Minecraft multiplayer server built on Spigot, set in a post-apocalyptic zombie world. This project focuses on immersive gameplay, survival challenges, and fully customized plugin systems designed specifically for the server.
+InvasionZ is a French custom Minecraft multiplayer server built on Spigot, set in a post-apocalyptic zombie world. This project focuses on immersive gameplay, survival challenges, and fully customized plugin systems designed specifically for the server.
 
 Key features include:
 - ✅ Dynamic zombie waves with unpredictable AI
